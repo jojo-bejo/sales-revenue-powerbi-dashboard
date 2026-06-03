@@ -1,0 +1,7 @@
+SalespersonID,Name,Region,RegionID,TotalAccounts,ActiveAccounts
+S01,Maria Santos,Luzon,R01,210,198
+S02,Ramon Dela Cruz,Luzon,R01,188,175
+S03,Ana Reyes,Visayas,R02,165,158
+S04,Liza Mendoza,Visayas,R02,138,132
+S05,Ben Torres,Mindanao,R03,142,121
+S06,Carlo Bautista,Mindanao,R03,125,98
