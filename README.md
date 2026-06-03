@@ -50,5 +50,5 @@ The dataset is illustrative and intended for portfolio demonstration purposes.
 Add a dashboard screenshot here after exporting one from Power BI:
 
 ```md
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview]([dashboard_preview.png](https://github.com/jojo-bejo/sales-revenue-powerbi-dashboard/commit/2a82801397c6b083752ce2f14b830bae6320fd3f))
 ```
