@@ -52,3 +52,4 @@ Add a dashboard screenshot here after exporting one from Power BI:
 ```md
 ![Dashboard Preview]([dashboard_preview.png](https://github.com/jojo-bejo/sales-revenue-powerbi-dashboard/commit/2a82801397c6b083752ce2f14b830bae6320fd3f))
 ```
+<img width="676" height="690" alt="image" src="https://github.com/user-attachments/assets/cb0ac30b-30cb-40c3-9c6f-6efe92a96e71" />
