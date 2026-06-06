@@ -50,5 +50,7 @@ The dataset is illustrative and intended for portfolio demonstration purposes.
 Add a dashboard screenshot here after exporting one from Power BI:
 
 ```md
-![Dashboard Preview](dashboard_preview.png)
+<img width="668" height="680" alt="image" src="https://github.com/user-attachments/assets/9b134354-e4ff-4b2b-9a38-69e452370613" />
+
+)
 ```
