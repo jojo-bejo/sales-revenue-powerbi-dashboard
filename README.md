@@ -17,7 +17,7 @@ This project presents an executive-style sales and revenue dashboard built in Po
 ## Features
 
 - KPI summary for revenue, target attainment, average monthly revenue, active customers, and inactive accounts
-- Period slicer for Full Year, H1 2024, Q1 2024, and Q2 2024
+- Compact month slicer with Full Year and multi-month selection
 - Monthly revenue vs target trend
 - Revenue vs target by region
 - Revenue share by region
@@ -35,7 +35,7 @@ This project presents an executive-style sales and revenue dashboard built in Po
 
 ## Files
 
-- `Sales & Revenue Dashboard v1 - layout improved.pbix` - final Power BI dashboard
+- `Sales & Revenue Dashboard v1 - month slicer.pbix` - final Power BI dashboard
 - `Data/` - source CSV data files
 - `sales_revenue_dashboard_v2 (1).html` - HTML dashboard mockup/reference
 - `Sales_Revenue_PBI_Guide (3).docx` - project guide/documentation
@@ -50,6 +50,5 @@ The dataset is illustrative and intended for portfolio demonstration purposes.
 Add a dashboard screenshot here after exporting one from Power BI:
 
 ```md
-![Dashboard Preview]([dashboard_preview.png](https://github.com/jojo-bejo/sales-revenue-powerbi-dashboard/commit/2a82801397c6b083752ce2f14b830bae6320fd3f))
+![Dashboard Preview](dashboard_preview.png)
 ```
-<img width="676" height="690" alt="image" src="https://github.com/user-attachments/assets/cb0ac30b-30cb-40c3-9c6f-6efe92a96e71" />
