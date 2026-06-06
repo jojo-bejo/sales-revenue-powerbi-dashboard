@@ -51,5 +51,5 @@ Add a dashboard screenshot here after exporting one from Power BI:
 
 ```md
 <img src="dashboard_preview_1.png" alt="Sales Revenue Dashboard Preview" width="800">
-)
+
 ```
