@@ -47,7 +47,8 @@ The dataset is illustrative and intended for portfolio demonstration purposes.
 
 ## Preview
 
-Add a dashboard screenshot here after exporting one from Power BI:
+<img width="668" height="680" alt="image" src="https://github.com/user-attachments/assets/b21e0ce1-a069-448b-9152-6d2cbc8b0595" />
+
 
 ```md
 <img src="dashboard_preview_1.png" alt="Sales Revenue Dashboard Preview" width="800">
